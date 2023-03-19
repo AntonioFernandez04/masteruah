@@ -7,12 +7,8 @@
     <li>
         git clone https://github.com/AntonioFernandez04/masteruah.git
     </li>
-    <li>
-        cd masteruah
-    </li>
-    <li>    
-        git add README.md
-    </li>
+    <li>cd masteruah</li>
+    <li>git add README.md</li>
     <li>
         git commit "commit inicial"
     </li>
