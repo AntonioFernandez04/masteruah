@@ -114,8 +114,6 @@
     <li>
         cat github.pub
     </li>
-    
-    </ol>
     <table>
         <tr>
     <th>Nombre</th>
@@ -126,7 +124,7 @@
     <td></td>
         </tr>
         <tr>
-    <td></td>
-    <td></td>
+    <td>MendezZp</td>
+    <td>https://github.com/MendezZp</td>
         </tr>
 </table>
