@@ -115,7 +115,7 @@
         cat github.pub
     </li>
     
-    <ol>
+    </ol>
     <table>
         <tr>
     <th>Nombre</th>
