@@ -115,18 +115,16 @@
         cat github.pub
     </li>
     <table>
+        <tr>
     <th>Nombre</th>
     <th>GitHub</th>
-    </tr>
-    <tr>
+        </tr>
+        <tr>
     <td>Salvitajiji</td>
     <td></td>
-    <td></td>
-    </tr>
-     <tr>
-    <td></td>
+        </tr>
+        <tr>
     <td></td>
     <td></td>
-    </tr>
-
+        </tr>
 </table>
