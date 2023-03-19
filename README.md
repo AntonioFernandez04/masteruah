@@ -1,6 +1,6 @@
 # masteruah
 
-[14:50, 19/3/2023] Power: <ol>
+<ol>
     <li>
         git clone
     </li>
@@ -114,6 +114,8 @@
     <li>
         cat github.pub
     </li>
+    
+    <ol>
     <table>
         <tr>
     <th>Nombre</th>
