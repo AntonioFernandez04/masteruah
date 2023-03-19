@@ -114,6 +114,7 @@
     <li>
         cat github.pub
     </li>
+    <table>
     <th>Nombre</th>
     <th>GitHub</th>
     </tr>
@@ -128,4 +129,4 @@
     <td></td>
     </tr>
 
-</table
+</table>
