@@ -121,7 +121,7 @@
         </tr>
         <tr>
     <td>Salvitajiji</td>
-    <td></td>
+    <td>https://github.com/masteruah-Salvitajiiji/masteruah-github/commits?author=Salvitajiji</td>
         </tr>
         <tr>
     <td>MendezZp</td>
